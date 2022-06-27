@@ -8,7 +8,7 @@ Stellungnahme zu meiner Schizophrenie
     <LINK href="mini.css" rel="stylesheet" type="text/css">
 
   </head>
-  <body style="margin:4;padding:4">
+  <body style="margin:40;padding:40">
     <pre>
 
 Er sagt (nicht im Video [0] sondern in einem anderen) dass #Gedanken eigentlich #Viren #sind. So wie eine Meme. Diese Viren beeinflussen unser Verhalten. Somit könnte man explizit auch solche "Gedanken-Viren" (Exploit mit Payload) schreiben um Menschen zu manipulieren wenn man genügend Reichweite hat, vielleicht tun das sogar einige Reiche und Mächtige als Sport und Hobby, bzw. die Werbeindustrie tut das ja sowieso, man frage einen 20 Jährigen was er für einen Nassrasierer oder Deo hat und wird öfters mal die richtige Antwort hören.
