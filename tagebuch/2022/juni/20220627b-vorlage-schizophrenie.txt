@@ -8,14 +8,10 @@ Stellungnahme zu meiner Schizophrenie
     <LINK href="mini.css" rel="stylesheet" type="text/css">
 
   </head>
-  <body>
+  <body style="margin:4;padding:4">
     <pre>
-Daniel Dennet ist auch noch spannend: 
 
-https://www.youtube.com/watch?v=Igb-Xstv0o0
-...
-
-Er sagt (nicht im obigen Video sondern in einem anderen) dass #Gedanken eigentlich #Viren #sind. So wie eine Meme. Diese Viren beeinflussen unser Verhalten. Somit könnte man explizit auch solche "Gedanken-Viren" (Exploit mit Payload) schreiben um Menschen zu manipulieren wenn man genügend Reichweite hat, vielleicht tun das sogar einige Reiche und Mächtige als Sport und Hobby, bzw. die Werbeindustrie tut das ja sowieso, man frage einen 20 Jährigen was er für einen Nassrasierer oder Deo hat und wird öfters mal die richtige Antwort hören.
+Er sagt (nicht im Video [0] sondern in einem anderen) dass #Gedanken eigentlich #Viren #sind. So wie eine Meme. Diese Viren beeinflussen unser Verhalten. Somit könnte man explizit auch solche "Gedanken-Viren" (Exploit mit Payload) schreiben um Menschen zu manipulieren wenn man genügend Reichweite hat, vielleicht tun das sogar einige Reiche und Mächtige als Sport und Hobby, bzw. die Werbeindustrie tut das ja sowieso, man frage einen 20 Jährigen was er für einen Nassrasierer oder Deo hat und wird öfters mal die richtige Antwort hören.
 
 Ich habe immer ddas Problem, dass andere Menschen denken ich oder generell #Schizophrene würden absichtlich solche bösartigen "Gedanken-Viren" schreiben. Bzw. der Virus selber kann ja gemäss Dennet gut oder böse sein.
 
@@ -35,13 +31,22 @@ Mir hilft es Dinge zu rationalisieren. Sobald ich verhalten verstanden habe hat 
 
 Ich werde deshalb als Virenschleuder oder Schmutzgüggel bei vielen Gelegenheiten verbal einfach abgewürgt, da habe ich ziemlich darunter gelitten. Der Buddhismus lernt zwar "Leben heisst leiden", aber man leidet nur wenn man so eingebildet ist wie ich und meint es besser zu wissen und Maximen hat (Individutaion). Aber ich hab dann rausgefunden wenn man sich einredet dass die anderen Menschen die nicht so leiden wie ein Schizophrener/in einfach blöd-doof und ungebildet sind [3] dass man dann weniger leidet.
 
+Meine Frage ist weshalb das "Kommunikative Handeln" [4] nach Jürgen Habermass [5] gegenüber andersartigen Menschen wie mir (Schizohprenie) für viele Menschen nicht möglich ist, bzw. eigentlich ist diese Frage somit auch beantwortet.
 
 
-[1] https://de.wikipedia.org/wiki/Robert_Kegan
+[0] Daniel Dennet https://www.youtube.com/watch?v=Igb-Xstv0o0
 
-[2] https://link.springer.com/book/10.1007/978-3-658-17738-6
+[1] Robert Kegan https://de.wikipedia.org/wiki/Robert_Kegan
+
+[2] Niklas Luhmann https://link.springer.com/book/10.1007/978-3-658-17738-6
 
 [3] https://de.wikipedia.org/wiki/Hanlon%E2%80%99s_Razor
+
+[4] https://de.wikipedia.org/wiki/Theorie_des_kommunikativen_Handelns
+
+[5] https://de.wikipedia.org/wiki/J%C3%BCrgen_Habermas
+
+
     </pre>
 
   </body>
